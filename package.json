@@ -1,0 +1,14 @@
+{
+  "name": "random_wallpaper",
+  "version": "1.0.0",
+  "description": "Get a random HD wallpaper from unsplash.com",
+  "main": "random_wallpaper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohan",
+  "license": "ISC",
+  "dependencies": {
+    "wallpaper": "^2.4.0"
+  }
+}
