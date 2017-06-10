@@ -1,0 +1,2 @@
+# RandomWallpaperFromUnsplash
+This is simple Node.js project. I am bored of seeing the same wallpaper for long time. I wrote this app to download a random HD photo from Unsplash.com. Unsplash.com is a great community which has a huge collection of royalty free stock photos submitted by artists from across the globe. The app will download a new random photo once a week and set it as my desktop wallpaper. This is also my practice app on Node.js.
